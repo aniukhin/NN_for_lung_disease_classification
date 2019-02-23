@@ -1,7 +1,5 @@
-# NN_for_lung_disease_classification
-Simple neural network for lung disease classification.
 # Огляд
-Файл .ipynb який містить код нейромережі для класифікації захворювань легень. У файлі також розглядається дослідження та обробка даних для навчання нейромережі.
+Файл .ipynb містить код нейромережі для визначення типу захворювання легень за даними електрофізіологічних параметрів. Також розглядається дослідження та обробка даних для навчання нейромережі.
 # Використання
 Файл відкривати за допомогою 'Jupyter notebook' або ['Google Colaboratory'](https://colab.research.google.com/)
 # Модулі
@@ -11,4 +9,4 @@ Simple neural network for lung disease classification.
 * keras
 * matplotlib
 # Дані
-Для навчання було використано дані отримані методом 'Breat Tissue Impedance', завантажені з [ресурсу](https://archive.ics.uci.edu/ml/datasets/Breast+Tissue)
+Для навчання було використано дані, отримані методом 'Breat Tissue Impedance', завантажені з ресурсу ['UC Irvine Machine Learning Repository'](https://archive.ics.uci.edu/ml/datasets/Breast+Tissue)
